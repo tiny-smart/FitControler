@@ -1,0 +1,64 @@
+Fit4Men Dataset Non-Commercial License (F4M-NC) v1.0
+
+Copyright (c) 2026 tiny-smart / FitControler contributors
+
+1. Definitions
+
+"Dataset" means the Fit4Men dataset, including its images, masks, annotations,
+metadata, manifests, and any accompanying files distributed by the FitControler
+project.
+
+"Non-Commercial Purpose" means use for academic research, teaching, education,
+benchmarking, evaluation, or personal study where the use is not intended to
+generate commercial revenue or commercial advantage.
+
+2. Permission
+
+Subject to the conditions and restrictions below, permission is granted, free of
+charge, to any person obtaining a copy of the Dataset to use, reproduce, study,
+modify, and share the Dataset solely for a Non-Commercial Purpose.
+
+3. Conditions
+
+When sharing the Dataset or a substantial portion of it, you must:
+
+- retain this license;
+- retain the attribution to the FitControler project;
+- include a link to https://github.com/tiny-smart/FitControler; and
+- clearly identify any material modifications.
+
+4. Commercial-use prohibition
+
+You must not, without prior written permission from the project maintainers:
+
+- use the Dataset, a substantial portion of it, or a derivative copy for a
+  commercial product, commercial service, paid API, advertising, sale, rental,
+  sublicensing, or other activity primarily intended for commercial advantage
+  or monetary compensation;
+- use the Dataset to train, fine-tune, evaluate, or validate a model or system
+  that is offered as part of a commercial product or commercial service; or
+- remove or obscure this commercial-use restriction.
+
+This restriction does not prohibit publication of non-commercial research
+results, provided that the Dataset itself and any restricted derivative files
+are not distributed for commercial use.
+
+5. Third-party rights
+
+The Dataset may contain material whose rights are held by third parties. This
+license does not grant rights to that material beyond the rights held by the
+project maintainers. You are responsible for checking and complying with any
+additional attribution, privacy, publicity, or other legal requirements.
+
+6. Disclaimer
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE DATASET OR THE USE OR OTHER DEALINGS IN THE DATASET.
+
+For commercial licensing inquiries, please contact the maintainers through the
+FitControler repository:
+https://github.com/tiny-smart/FitControler

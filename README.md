@@ -1,6 +1,5 @@
 # FitControler
 
-FitControler is a fit-aware virtual try-on method that enables controllable garment-fit generation. The paper presents both the FitControler method and the Fit4Men dataset; Fit4Men is one of the paper's contributions, rather than the entire project.
 
 ### TODO
 

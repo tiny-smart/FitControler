@@ -9,9 +9,7 @@
 
 ## Fit4Men Dataset
 
-Fit4Men is a male fashion dataset used by the FitControler project for fit-aware virtual try-on research. The dataset is now publicly available for download. It contains two garment categories, upper-body garments (`upper`) and lower-body garments (`lower`), together with training and test splits and garment-fit labels. The accompanying paper describes Fit4Men as containing approximately 13,000 body-garment pairs across different fits, camera distances, and body poses.
-
-> This README was prepared from the actual contents of the local `Fit4Men` dataset. Because the archive is large, Google Drive may not be able to preview it online, but the file can still be downloaded.
+Fit4Men is a male fashion dataset used by the FitControler project for fit-aware virtual try-on research. The dataset is now publicly available for download. It contains two garment categories, upper-body garments (`upper`) and lower-body garments (`lower`), together with training and test splits and garment-fit labels. 
 
 ### Download
 
